@@ -3,8 +3,11 @@
 A versatile Graphical User Interface (GUI) application built with **JavaFX** that calculates fuel efficiency. It features a dynamic toggle system to switch between US Imperial and Metric measurement systems.
 
 ## Preview
---
+---
 <img width="391" height="272" alt="Screenshot 2026-05-12 at 12 02 37 PM" src="https://github.com/user-attachments/assets/25eb66ca-ac78-4167-8156-a4a4c4b817cd" />
+
+<img width="398" height="260" alt="Screenshot 2026-05-12 at 12 03 56 PM" src="https://github.com/user-attachments/assets/73ec8710-4df9-433c-91d2-9affb09901a0" />
+
 ---
 
 ## ⛽ Features
